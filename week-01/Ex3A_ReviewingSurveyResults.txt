@@ -1,0 +1,118 @@
+Q1- What do you envision yourself doing 5 minutes before class starts each day, to ensure that you are ready to start on time?
+1. What conclusion can you reach about the responses to this question?
+	The answer: Most responses share the same idea, students plan to be prepared, ready, and join the meeting on time before class starts.
+
+2. Is the default summary or visualization helpful? How could it be improved?
+	The answer: The default summary is somewhat helpful, but since responses are written in different ways, it is hard to quickly identify patterns.
+
+3. For questions with an “Other” option, where can you find the actual text of those 
+responses? Do you notice anything that might be tricky about analyzing these?
+	The answer: N/A
+
+4. For questions calling for a written response, what challenges do you notice about 
+finding trends or patterns in the answers provided?
+	The answer: It is harder to find trends because even when responses have the same meaning, they are written differently.
+
+5. Now that you can see the responses, how might you recommend rephrasing this or 
+question or the response options in a future survey?
+	The answer: I would add a checklist with common options so respondents can select answers instead of writing them.
+
+
+Q2- Do you have a second monitor connected to your computer?
+1. What conclusion can you reach about the responses to this question?
+	The answer: There are 12 “Yes” responses and 7 “No” responses, while some respondents mentioned using another laptop or iPad.
+
+2. Is the default summary or visualization helpful? How could it be improved?
+	The answer: For yes/no questions, it's clearly group similar answers.
+
+3. For questions with an “Other” option, where can you find the actual text of those 
+responses? Do you notice anything that might be tricky about analyzing these?
+	The answer: Yes, it is tricky because responses are not consistent. For example, some people wrote “No” while others wrote “No.” with a period, which may be counted differently.
+
+4. For questions calling for a written response, what challenges do you notice about 
+finding trends or patterns in the answers provided?
+	The answer: The challenge is inconsistency in responses, which makes it harder to group and count them accurately.
+
+5. Now that you can see the responses, how might you recommend rephrasing this or 
+question or the response options in a future survey?
+	The answer: I would use a simple Yes/No multiple-choice question.
+
+
+Q3- Do you have an external keyboard and mouse?
+1. What conclusion can you reach about the responses to this question?
+	The answer: There are 13 “Yes” responses and 10 “No” responses. Some respondents have only a mouse or only a keyboard.
+
+2. Is the default summary or visualization helpful? How could it be improved?
+	The answer: yes it's helpful, but it does not clearly separate partial responses (like only mouse or only keyboard). It could be improved by categorizing responses more clearly.
+
+3. For questions with an “Other” option, where can you find the actual text of those 
+responses? Do you notice anything that might be tricky about analyzing these?
+	The answer: The actual text can be found in the individual responses section. It is tricky because people describe their setup differently, which makes grouping difficult.
+
+4. For questions calling for a written response, what challenges do you notice about 
+finding trends or patterns in the answers provided?
+	The answer: The challenge is differences in sentence structure and wording.
+
+5. Now that you can see the responses, how might you recommend rephrasing this or 
+question or the response options in a future survey?
+	The answer: I recommend adding multiple-choice options such as: Yes, No, Only mouse, Only keyboard.
+
+
+Q4- How do you plan to take notes for this class – in a doc on your computer, with pen and paper, or something else? 
+1. What conclusion can you reach about the responses to this question?
+	The answer: The responses are more organized compared to other questions, and most students use either a computer, paper, or both.
+
+2. Is the default summary or visualization helpful? How could it be improved?
+	The answer: The summary is helpful, but it could be improved by grouping similar responses like “both” or “iPad” into categories.
+
+3. For questions with an “Other” option, where can you find the actual text of those 
+responses? Do you notice anything that might be tricky about analyzing these?
+	The answer: Yes, it is tricky because some people wrote “Both,” others wrote “iPad,” or full sentences combining multiple methods.
+
+4. For questions calling for a written response, what challenges do you notice about 
+finding trends or patterns in the answers provided?
+	The answer: The challenge is that people describe their note-taking methods in different ways, even if they mean the same thing.
+
+5. Now that you can see the responses, how might you recommend rephrasing this or 
+question or the response options in a future survey?
+	The answer: I would provide fixed options such as: On my computer, With pen and paper, Both, Other.
+
+
+Q5- What is one question that you have right now, about this course generally or about a specific topic we’ll be talking about?
+1. What conclusion can you reach about the responses to this question?
+	The answer: The responses are very diverse, and it is difficult to find common patterns among them.
+
+2. Is the default summary or visualization helpful? How could it be improved?
+	The answer: The summary is not very helpful because responses are open-ended.
+
+3. For questions with an “Other” option, where can you find the actual text of those 
+responses? Do you notice anything that might be tricky about analyzing these?
+	The answer: N/A
+
+4. For questions calling for a written response, what challenges do you notice about 
+finding trends or patterns in the answers provided?
+	The answer: The main challenge is identifying trends because all responses are different.
+
+5. Now that you can see the responses, how might you recommend rephrasing this or 
+question or the response options in a future survey?
+	The answer: I would keep this as an open-ended question but possibly add categories or prompts to guide responses.
+
+____________________________________
+
+6. Is there anything that surprised you about the survey responses?
+	The answer: Yes I was surprised by how difficult it is to analyze “Other” responses because they are inconsistent and written in different formats.
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to 
+include in your morning routine, or any questions that you are also curious about?
+	The answer: From Question 1, I might try preparing a few minutes early and organizing my materials before class starts. 
+		From Question 5, I am also curious about some of the questions others asked, which could help me think about topics I hadn’t considered.
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help 
+in how you approach teaching this class?
+	The answer: If I were the instructor, I would learn that students have different levels of preparation and different setups. I might provide clearer instructions.
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to 
+make this survey anonymous? Why or why not? (If you can see both pros and cons, 
+you may include both.)
+	The answer: I think making the survey anonymous has both advantages and disadvantages. Pros: Students may feel more comfortable giving honest answers.
+Cons: It is harder to follow up with specific students.
