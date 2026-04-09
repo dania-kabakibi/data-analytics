@@ -1,0 +1,41 @@
+1. Start by reviewing the data.gov home page. What is this? 
+	The answer: It is The United States Government's open data site.
+
+2. Go to Most Viewed Datasets. How many datasets are listed?
+	The answer: 402,375 datasets found.
+
+3. Find the Topic Category for Human Health. Review the range of data sources 
+available for this topic. Why do you think these were tagged with the Human Health 
+category?
+	The answer: There are about 50 data sources available under the Human Health category. These datasets are tagged with the Human Health category because they include information related to public health, medical conditions, healthcare services,and nutrition.
+
+4. Go to the Food Price Outlook. Review the catalog page for this dataset. How can you 
+navigate to additional datasets from the USDA? 
+	The answer: You can navigate to more datasets by clicking links related to USDA, from "Metadata Source" section, click on "Harvested from USDA JSON".
+
+5. Go back to the data.gov home page. This time, click on Datasets by Organization.
+
+6. Try searching for your city, county, and state. What organizations are returned?
+	The answer: No organizations found for "Belleville Essex New Jersey".
+
+7. Search for USDA, and click into the result. Within the USDA datasets, search for food 
+composition. Notice that the top three results are all datasets concerning nutrition 
+information. Try searching the USDA page for nutrition. How does that affect your 
+results? 
+	The answer: After adding nutrition (211 datasets found for "food composition nutrition"), and before it was (17 datasets found for "food composition")
+
+a) One of the tricky things about working with data is that sometimes the terminology 
+used by a data source is not obvious. You may need to dig around and be creative 
+to find what you’re looking for.
+
+8. Go back to the results for food composition, and click on FoodData Central. Review 
+the catalog page for this data source, then click on the button for Visit Page. Take 
+some time to explore the FoodData Central website. 
+a) Try searching for butter, or any of your favorite foods. What kind of results do you 
+get? What happens when you click on a result? 
+	The answer: I got 5 results as a table, (NDB Number	Description	Most Recent Acquisition Date	SR/Foundation Food Category). When click on a result (Almond butter, creamy) a new page opened, it contains three tabs (Components, Individual Samples, and Other Information)
+
+b) Go back to the home page. Find Foundation Foods, and click on Downloads. What 
+kind of data can you find on this page? How big are these files? Where can you find 
+more information on the data types available?
+	The answer: I found a Latest Downloads as a table it has "Data Type" (Foundation Foods, SR Legacy, FNDDS, Branded, Full Download of All Data Types) and each data type have CSV and JSON download files with large sizes "Zipped" from 467K-458M.
