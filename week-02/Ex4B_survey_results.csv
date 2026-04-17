@@ -1,0 +1,11 @@
+Id,Start_time,Completion_time,visit_frequency,"Rating
+","Favorite_items
+","Rewards_importance
+",Rewards_preference,"Promo_source
+",Marketing_opt_in,Contact_email
+1,4/9/2026 9:54,4/9/2026 9:55,Seasonal,4,"Loaded Beef Fries & Cheese;Slap Shakes (Chocolate, Vanilla, Strawberry);Chicken Sandwich;",Neutral,Discounts;Points system;,Social media;Friends/family;,No,
+2,4/9/2026 10:04,4/9/2026 10:05,2–3 times a month,4,Chicken Sandwich;,Important,"Free food (burger, fries, etc.);",Email;In-store;,No,
+3,4/9/2026 11:51,4/9/2026 11:52,First time,5,"Slap'n Melt;Slap Shakes (Chocolate, Vanilla, Strawberry);",Neutral,Points system;,Social media;Email;,Yes (please enter email below),mblack@my.yearupunited.org
+4,4/10/2026 1:01,4/10/2026 1:02,First time,5,"Chicken Sandwich;Loaded Chicken Mac & Cheese;Slap'n Tender;Loaded Chicken Fries;Slap Shakes (Chocolate, Vanilla, Strawberry);",Important,"Free food (burger, fries, etc.);Discounts;Points system;Birthday rewards;Exclusive deals;",Social media;Email;,Yes (please enter email below),ktyler@my.yearupunited.org
+5,4/10/2026 2:52,4/10/2026 2:54,Once a month,5,Loaded Chicken Fries;Loaded Chicken Mac & Cheese;Slap'n Melt;,Important,Discounts;Exclusive deals;Birthday rewards;,Social media;Email;,Yes (please enter email below),mtariq@my.yearupunited.org
+6,4/10/2026 11:48,4/10/2026 11:51,2–3 times a month,5,"Waffle'n Tenders;Loaded Chicken Fries;Slap Shakes (Chocolate, Vanilla, Strawberry);",Neutral,Birthday rewards;Discounts;,Social media;Friends/family;,No,

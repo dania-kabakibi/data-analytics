@@ -1,0 +1,80 @@
+[
+	{
+		"Id" : 1,
+		"Start_time" : "4/9/2026 9:54",
+		"Completion_time" : "4/9/2026 9:55",
+		"visit_frequency" : "Seasonal",
+		"Rating" : 4,
+		"Favorite_items" : "Loaded Beef Fries & Cheese;Slap Shakes (Chocolate, Vanilla, Strawberry);Chicken Sandwich;",
+		"Rewards_importance" : "Neutral",
+		"Rewards_preference" : "Discounts;Points system;",
+		"Promo_source" : "Social media;Friends/family;",
+		"Marketing_opt_in" : "No",
+		"Contact_email" : ""
+	},
+	{
+		"Id" : 2,
+		"Start_time" : "4/9/2026 10:04",
+		"Completion_time" : "4/9/2026 10:05",
+		"visit_frequency" : "2–3 times a month",
+		"Rating" : 4,
+		"Favorite_items" : "Chicken Sandwich;",
+		"Rewards_importance" : "Important",
+		"Rewards_preference" : "Free food (burger, fries, etc.);",
+		"Promo_source" : "Email;In-store;",
+		"Marketing_opt_in" : "No",
+		"Contact_email" : ""
+	},
+	{
+		"Id" : 3,
+		"Start_time" : "4/9/2026 11:51",
+		"Completion_time" : "4/9/2026 11:52",
+		"visit_frequency" : "First time",
+		"Rating" : 5,
+		"Favorite_items" : "Slap'n Melt;Slap Shakes (Chocolate, Vanilla, Strawberry);",
+		"Rewards_importance" : "Neutral",
+		"Rewards_preference" : "Points system;",
+		"Promo_source" : "Social media;Email;",
+		"Marketing_opt_in" : "Yes (please enter email below)",
+		"Contact_email" : "mblack@my.yearupunited.org"
+	},
+	{
+		"Id" : 4,
+		"Start_time" : "4/10/2026 1:01",
+		"Completion_time" : "4/10/2026 1:02",
+		"visit_frequency" : "First time",
+		"Rating" : 5,
+		"Favorite_items" : "Chicken Sandwich;Loaded Chicken Mac & Cheese;Slap'n Tender;Loaded Chicken Fries;Slap Shakes (Chocolate, Vanilla, Strawberry);",
+		"Rewards_importance" : "Important",
+		"Rewards_preference" : "Free food (burger, fries, etc.);Discounts;Points system;Birthday rewards;Exclusive deals;",
+		"Promo_source" : "Social media;Email;",
+		"Marketing_opt_in" : "Yes (please enter email below)",
+		"Contact_email" : "ktyler@my.yearupunited.org"
+	},
+	{
+		"Id" : 5,
+		"Start_time" : "4/10/2026 2:52",
+		"Completion_time" : "4/10/2026 2:54",
+		"visit_frequency" : "Once a month",
+		"Rating" : 5,
+		"Favorite_items" : "Loaded Chicken Fries;Loaded Chicken Mac & Cheese;Slap'n Melt;",
+		"Rewards_importance" : "Important",
+		"Rewards_preference" : "Discounts;Exclusive deals;Birthday rewards;",
+		"Promo_source" : "Social media;Email;",
+		"Marketing_opt_in" : "Yes (please enter email below)",
+		"Contact_email" : "mtariq@my.yearupunited.org"
+	},
+	{
+		"Id" : 6,
+		"Start_time" : "4/10/2026 11:48",
+		"Completion_time" : "4/10/2026 11:51",
+		"visit_frequency" : "2–3 times a month",
+		"Rating" : 5,
+		"Favorite_items" : "Waffle'n Tenders;Loaded Chicken Fries;Slap Shakes (Chocolate, Vanilla, Strawberry);",
+		"Rewards_importance" : "Neutral",
+		"Rewards_preference" : "Birthday rewards;Discounts;",
+		"Promo_source" : "Social media;Friends/family;",
+		"Marketing_opt_in" : "No",
+		"Contact_email" : ""
+	}
+]
