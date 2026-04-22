@@ -98,3 +98,55 @@ WHERE ShipRegion IS NULL;
 SELECT FirstName, LastName, Region
 FROM employees
 WHERE Region IS NOT NULL;
+
+-- Example 24:
+SELECT OrderID, CustomerID, OrderDate
+FROM orders
+WHERE OrderDate = '1997-01-01';
+
+-- Example 26:
+SELECT OrderID, OrderDate
+FROM orders
+WHERE YEAR(OrderDate) = 1997 AND MONTH(OrderDate) = 6;
+
+-- Example 27:
+SELECT ProductName, UnitPrice
+FROM products
+ORDER BY UnitPrice DESC;
+
+-- Example 28:
+SELECT CompanyName, Country, City
+FROM customers
+ORDER BY Country ASC, CompanyName ASC;
+
+-- Example 29:
+SELECT ProductName, UnitPrice
+FROM products
+ORDER BY UnitPrice DESC
+LIMIT 5;
+
+-- Example 30:
+SELECT ProductName, UnitPrice
+FROM products
+ORDER BY UnitPrice DESC
+LIMIT 5, 5;
+
+-- Example 31:
+SELECT DISTINCT Country
+FROM customers
+ORDER BY Country;
+
+-- Example 32:
+SELECT DISTINCT Country, City
+FROM customers
+ORDER BY Country, City;
+
+-- Eample 33:
+SELECT CONCAT(FirstName, ' ', LastName) AS 'Full Name', Title
+FROM employees;
+
+-- Example 36:
+SELECT ProductName, 
+	UnitPrice AS 'Original_Price', 
+	UnitPrice * 0.9 AS '10% Discount_Price'
+FROM products;
