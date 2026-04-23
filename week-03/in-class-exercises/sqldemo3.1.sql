@@ -150,3 +150,50 @@ SELECT ProductName,
 	UnitPrice AS 'Original_Price', 
 	UnitPrice * 0.9 AS '10% Discount_Price'
 FROM products;
+
+-- Day3 Example 1:
+SELECT o.OrderID, c.CompanyName AS 'Customer', o.OrderDate
+FROM Orders o
+JOIN customers c ON o.CustomerID = c.CustomerID
+ORDER BY o.OrderDate DESC
+LIMIT 5;
+
+-- Day3 Example 2:
+SELECT o.OrderID, c.CompanyName AS 'Customer', o.OrderDate
+FROM Orders o
+JOIN customers c USING (CustomerID)
+ORDER BY o.OrderDate DESC
+LIMIT 5;
+
+-- Day3 Example 3:
+SELECT p.ProductName, c.CategoryName , p.UnitPrice
+FROM products p
+INNER JOIN categories c ON p.CategoryID = c.CategoryID
+ORDER BY c.CategoryName, p.ProductName
+LIMIT 6;
+
+SELECT p.ProductName, c.CategoryName , p.UnitPrice
+FROM products p
+INNER JOIN categories c USING (CategoryID)
+ORDER BY c.CategoryName, p.ProductName
+LIMIT 6;
+
+-- Day3 Example 4:
+SELECT o.OrderID,
+	c.CompanyName,
+    SUM(od.Quantity * od.UnitPrice) AS 'Order Total'
+FROM Orders o
+INNER JOIN Customers c ON o.CustomerID = c.CustomerID
+INNER JOIN `order details` od ON o.OrderID = od.OrderID
+GROUP BY o.OrderID, c.CompanyName
+ORDER BY 'Order Total' DESC
+LIMIT 5;
+
+-- Day3 Example 5:
+SELECT c.CompanyName,
+	COUNT(o.OrderID) AS 'Order Count'
+FROM customers c
+LEFT JOIN Orders o ON c.CustomerID = o.CustomerID
+GROUP BY c.CompanyName
+ORDER BY 'Order Count' ASC
+LIMIT 5;
