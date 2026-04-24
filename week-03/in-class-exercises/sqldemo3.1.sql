@@ -197,3 +197,18 @@ LEFT JOIN Orders o ON c.CustomerID = o.CustomerID
 GROUP BY c.CompanyName
 ORDER BY 'Order Count' ASC
 LIMIT 5;
+
+-- Day4 Example 1:
+SELECT COUNT(OrderID) AS 'Total Orders'
+FROM orders;
+
+-- Day4 Example 2:
+SELECT SUM(Freight) AS 'Total Freight',
+	AVG(Freight) AS 'Average Freight', 
+    MIN(Freight) AS 'Minimun Freight', 
+    MAX(Freight) AS 'Maximum Freight'
+FROM orders;
+
+-- Day4 Example 4:
+SELECT COUNT(DISTINCT Country) AS 'Countries Served'
+FROM Customers;
