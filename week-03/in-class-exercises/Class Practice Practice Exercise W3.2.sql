@@ -93,7 +93,7 @@ then by FullName ascending.
 Hint: Join Employees and Orders on EmployeeID, aggregate with COUNT and GROUP BY, then 
 filter with HAVING.*/
 SELECT e.EmployeeID,
-	CONCAT(e.FirstName + ' ' + e.LastName) AS 'FullName', 
+	CONCAT(e.FirstName, ' ', e.LastName) AS 'FullName', 
 	COUNT(o.OrderID) AS 'OrderCount'
 FROM employees e
 JOIN orders o
