@@ -1,0 +1,26 @@
+Table: orders
+Column: OrderID
+
+* What does a value in this column represent? What values might you see here?
+A unique identifier for each customer transaction.
+ 
+* Is this column a part of the primary key to this table? 
+Yes.
+
+* Is this column a part of a foreign key that points to a record in another table? 
+No.
+
+* Would this column be valuable to bring into our Power BI Model? Yes, or no? Why? 
+Yes, to count total unique orders.
+
+* Do you believe this column is appropriately named for Data Analysis purposes? 
+Yes.
+
+* If not, what might be a more appropriate name? 
+
+
+* What might be the data type and format for this column in a Power BI Model? 
+Whole Number / Text.
+
+* Can you think of any calculations where this column data might be used?
+Using count() to get total order volume.
